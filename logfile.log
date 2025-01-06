@@ -1,0 +1,42 @@
+2025-01-06 10:27:18,211 :INFO : test_e2e :Getting All Items Name
+2025-01-06 10:27:18,241 :INFO : test_e2e :Sauce Labs Backpack
+2025-01-06 10:27:18,253 :INFO : test_e2e :Sauce Labs Bike Light
+2025-01-06 10:27:18,264 :INFO : test_e2e :Sauce Labs Bolt T-Shirt
+2025-01-06 10:27:18,271 :INFO : test_e2e :Sauce Labs Fleece Jacket
+2025-01-06 10:27:18,280 :INFO : test_e2e :Sauce Labs Onesie
+2025-01-06 10:27:18,288 :INFO : test_e2e :Test.allTheThings() T-Shirt (Red)
+2025-01-06 10:27:18,442 :INFO : test_e2e :List Items on Basket
+2025-01-06 10:27:18,529 :INFO : test_e2e :Item is: ['Sauce Labs Backpack', 'Sauce Labs Bike Light'], Price is: ['$29.99', '$9.99']
+2025-01-06 10:27:18,915 :INFO : test_e2e :List Items on Basket
+2025-01-06 10:27:18,985 :INFO : test_e2e :Item is: ['Sauce Labs Backpack', 'Sauce Labs Bike Light'], Price is: ['$29.99', '$9.99']
+2025-01-06 10:27:19,006 :INFO : test_e2e :Item Total is: 39.98
+2025-01-06 10:27:19,007 :INFO : test_e2e :Total Price is: 43.18
+2025-01-06 10:27:19,083 :INFO : test_e2e :Complete Order: Thank you for your order!
+2025-01-06 10:27:42,523 :INFO : test_e2e :Getting All Items Name
+2025-01-06 10:27:42,555 :INFO : test_e2e :Sauce Labs Backpack
+2025-01-06 10:27:42,565 :INFO : test_e2e :Sauce Labs Bike Light
+2025-01-06 10:27:42,578 :INFO : test_e2e :Sauce Labs Bolt T-Shirt
+2025-01-06 10:27:42,587 :INFO : test_e2e :Sauce Labs Fleece Jacket
+2025-01-06 10:27:42,595 :INFO : test_e2e :Sauce Labs Onesie
+2025-01-06 10:27:42,605 :INFO : test_e2e :Test.allTheThings() T-Shirt (Red)
+2025-01-06 10:27:42,765 :INFO : test_e2e :List Items on Basket
+2025-01-06 10:27:42,826 :INFO : test_e2e :Item is: ['Sauce Labs Backpack', 'Sauce Labs Bike Light'], Price is: ['$29.99', '$9.99']
+2025-01-06 10:27:43,203 :INFO : test_e2e :List Items on Basket
+2025-01-06 10:27:43,283 :INFO : test_e2e :Item is: ['Sauce Labs Backpack', 'Sauce Labs Bike Light'], Price is: ['$29.99', '$9.99']
+2025-01-06 10:27:43,300 :INFO : test_e2e :Item Total is: 39.98
+2025-01-06 10:27:43,300 :INFO : test_e2e :Total Price is: 43.18
+2025-01-06 10:27:43,369 :INFO : test_e2e :Complete Order: Thank you for your order!
+2025-01-06 12:33:43,481 :INFO : test_e2e :Getting All Items Name
+2025-01-06 12:33:43,525 :INFO : test_e2e :Sauce Labs Backpack
+2025-01-06 12:33:43,539 :INFO : test_e2e :Sauce Labs Bike Light
+2025-01-06 12:33:43,552 :INFO : test_e2e :Sauce Labs Bolt T-Shirt
+2025-01-06 12:33:43,562 :INFO : test_e2e :Sauce Labs Fleece Jacket
+2025-01-06 12:33:43,572 :INFO : test_e2e :Sauce Labs Onesie
+2025-01-06 12:33:43,590 :INFO : test_e2e :Test.allTheThings() T-Shirt (Red)
+2025-01-06 12:33:43,798 :INFO : test_e2e :List Items on Basket
+2025-01-06 12:33:43,868 :INFO : test_e2e :Item is: ['Sauce Labs Backpack', 'Sauce Labs Bike Light'], Price is: ['$29.99', '$9.99']
+2025-01-06 12:33:44,356 :INFO : test_e2e :List Items on Basket
+2025-01-06 12:33:44,417 :INFO : test_e2e :Item is: ['Sauce Labs Backpack', 'Sauce Labs Bike Light'], Price is: ['$29.99', '$9.99']
+2025-01-06 12:33:44,436 :INFO : test_e2e :Item Total is: 39.98
+2025-01-06 12:33:44,436 :INFO : test_e2e :Total Price is: 43.18
+2025-01-06 12:33:44,524 :INFO : test_e2e :Complete Order: Thank you for your order!
